@@ -1,0 +1,6 @@
+const BASE = {
+    BASE_URI: "/v1",
+  };
+  
+  module.exports = BASE;
+  
