@@ -1,0 +1,1549 @@
+[
+  {
+    "id": 1,
+    "name": "All",
+    "subCategory": [
+      {
+        "id": 1,
+        "name": "Bags",
+        "image": "/images/2.png",
+        "products": [
+          {
+            "id": 1,
+            "name": "Hoodie",
+            "image": "/images/9.png",
+            "price": 15,
+            "quantity": 25,
+            "discountPercentage": 59.9,
+            "status": true
+          },
+          {
+            "id": 2,
+            "name": "Pants",
+            "image": "/images/6.png",
+            "price": 5,
+            "quantity": 30,
+            "discountPercentage": 49.9,
+            "status": false
+          },
+          {
+            "id": 3,
+            "name": "Cap",
+            "image": "/images/7.png",
+            "price": 10,
+            "quantity": 5,
+            "discountPercentage": 29.9,
+            "status": true
+          },
+          {
+            "id": 4,
+            "name": "Jacket",
+            "image": "/images/8.png",
+            "price": 20,
+            "quantity": 15,
+            "discountPercentage": 14.5,
+            "status": true
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Shoes",
+        "image": "/images/3.png",
+        "products": [
+          {
+            "id": 1,
+            "name": "Hoodie",
+            "image": "/images/9.png",
+            "price": 15,
+            "quantity": 25,
+            "discountPercentage": 59.9,
+            "status": true
+          },
+          {
+            "id": 2,
+            "name": "Pants",
+            "image": "/images/6.png",
+            "price": 5,
+            "quantity": 30,
+            "discountPercentage": 49.9,
+            "status": false
+          },
+          {
+            "id": 3,
+            "name": "Cap",
+            "image": "/images/7.png",
+            "price": 10,
+            "quantity": 5,
+            "discountPercentage": 29.9,
+            "status": true
+          },
+          {
+            "id": 4,
+            "name": "Jacket",
+            "image": "/images/8.png",
+            "price": 20,
+            "quantity": 15,
+            "discountPercentage": 14.5,
+            "status": true
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Watch",
+        "image": "/images/4.png",
+        "products": [
+          {
+            "id": 1,
+            "name": "Hoodie",
+            "image": "/images/9.png",
+            "price": 15,
+            "quantity": 25,
+            "discountPercentage": 59.9,
+            "status": true
+          },
+          {
+            "id": 2,
+            "name": "Pants",
+            "image": "/images/6.png",
+            "price": 5,
+            "quantity": 30,
+            "discountPercentage": 49.9,
+            "status": false
+          },
+          {
+            "id": 3,
+            "name": "Cap",
+            "image": "/images/7.png",
+            "price": 10,
+            "quantity": 5,
+            "discountPercentage": 29.9,
+            "status": true
+          },
+          {
+            "id": 4,
+            "name": "Jacket",
+            "image": "/images/8.png",
+            "price": 20,
+            "quantity": 15,
+            "discountPercentage": 14.5,
+            "status": true
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "name": "Pochette",
+        "image": "/images/5.png",
+        "products": [
+          {
+            "id": 1,
+            "name": "Hoodie",
+            "image": "/images/9.png",
+            "price": 15,
+            "quantity": 25,
+            "discountPercentage": 59.9,
+            "status": true
+          },
+          {
+            "id": 2,
+            "name": "Pants",
+            "image": "/images/6.png",
+            "price": 5,
+            "quantity": 30,
+            "discountPercentage": 49.9,
+            "status": false
+          },
+          {
+            "id": 3,
+            "name": "Cap",
+            "image": "/images/7.png",
+            "price": 10,
+            "quantity": 5,
+            "discountPercentage": 29.9,
+            "status": true
+          },
+          {
+            "id": 4,
+            "name": "Jacket",
+            "image": "/images/8.png",
+            "price": 20,
+            "quantity": 15,
+            "discountPercentage": 14.5,
+            "status": true
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "name": "Hat",
+        "image": "/images/1.png",
+        "products": [
+          {
+            "id": 1,
+            "name": "Hoodie",
+            "image": "/images/9.png",
+            "price": 15,
+            "quantity": 25,
+            "discountPercentage": 59.9,
+            "status": true
+          },
+          {
+            "id": 2,
+            "name": "Pants",
+            "image": "/images/6.png",
+            "price": 5,
+            "quantity": 30,
+            "discountPercentage": 49.9,
+            "status": false
+          },
+          {
+            "id": 3,
+            "name": "Cap",
+            "image": "/images/7.png",
+            "price": 10,
+            "quantity": 5,
+            "discountPercentage": 29.9,
+            "status": true
+          },
+          {
+            "id": 4,
+            "name": "Jacket",
+            "image": "/images/8.png",
+            "price": 20,
+            "quantity": 15,
+            "discountPercentage": 14.5,
+            "status": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Clothing",
+    "subCategory": [
+      {
+        "id": 1,
+        "name": "Bags",
+        "image": "/images/2.png",
+        "products": [
+          {
+            "id": 1,
+            "name": "Hoodie",
+            "image": "/images/9.png",
+            "price": 15,
+            "quantity": 25,
+            "discountPercentage": 59.9,
+            "status": true
+          },
+          {
+            "id": 2,
+            "name": "Pants",
+            "image": "/images/6.png",
+            "price": 5,
+            "quantity": 30,
+            "discountPercentage": 49.9,
+            "status": false
+          },
+          {
+            "id": 3,
+            "name": "Cap",
+            "image": "/images/7.png",
+            "price": 10,
+            "quantity": 5,
+            "discountPercentage": 29.9,
+            "status": true
+          },
+          {
+            "id": 4,
+            "name": "Jacket",
+            "image": "/images/8.png",
+            "price": 20,
+            "quantity": 15,
+            "discountPercentage": 14.5,
+            "status": true
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Shoes",
+        "image": "/images/3.png",
+        "products": [
+          {
+            "id": 1,
+            "name": "Hoodie",
+            "image": "/images/9.png",
+            "price": 15,
+            "quantity": 25,
+            "discountPercentage": 59.9,
+            "status": true
+          },
+          {
+            "id": 2,
+            "name": "Pants",
+            "image": "/images/6.png",
+            "price": 5,
+            "quantity": 30,
+            "discountPercentage": 49.9,
+            "status": false
+          },
+          {
+            "id": 3,
+            "name": "Cap",
+            "image": "/images/7.png",
+            "price": 10,
+            "quantity": 5,
+            "discountPercentage": 29.9,
+            "status": true
+          },
+          {
+            "id": 4,
+            "name": "Jacket",
+            "image": "/images/8.png",
+            "price": 20,
+            "quantity": 15,
+            "discountPercentage": 14.5,
+            "status": true
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Watch",
+        "image": "/images/4.png",
+        "products": [
+          {
+            "id": 1,
+            "name": "Hoodie",
+            "image": "/images/9.png",
+            "price": 15,
+            "quantity": 25,
+            "discountPercentage": 59.9,
+            "status": true
+          },
+          {
+            "id": 2,
+            "name": "Pants",
+            "image": "/images/6.png",
+            "price": 5,
+            "quantity": 30,
+            "discountPercentage": 49.9,
+            "status": false
+          },
+          {
+            "id": 3,
+            "name": "Cap",
+            "image": "/images/7.png",
+            "price": 10,
+            "quantity": 5,
+            "discountPercentage": 29.9,
+            "status": true
+          },
+          {
+            "id": 4,
+            "name": "Jacket",
+            "image": "/images/8.png",
+            "price": 20,
+            "quantity": 15,
+            "discountPercentage": 14.5,
+            "status": true
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "name": "Pochette",
+        "image": "/images/5.png",
+        "products": [
+          {
+            "id": 1,
+            "name": "Hoodie",
+            "image": "/images/9.png",
+            "price": 15,
+            "quantity": 25,
+            "discountPercentage": 59.9,
+            "status": true
+          },
+          {
+            "id": 2,
+            "name": "Pants",
+            "image": "/images/6.png",
+            "price": 5,
+            "quantity": 30,
+            "discountPercentage": 49.9,
+            "status": false
+          },
+          {
+            "id": 3,
+            "name": "Cap",
+            "image": "/images/7.png",
+            "price": 10,
+            "quantity": 5,
+            "discountPercentage": 29.9,
+            "status": true
+          },
+          {
+            "id": 4,
+            "name": "Jacket",
+            "image": "/images/8.png",
+            "price": 20,
+            "quantity": 15,
+            "discountPercentage": 14.5,
+            "status": true
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "name": "Hat",
+        "image": "/images/1.png",
+        "products": [
+          {
+            "id": 1,
+            "name": "Hoodie",
+            "image": "/images/9.png",
+            "price": 15,
+            "quantity": 25,
+            "discountPercentage": 59.9,
+            "status": true
+          },
+          {
+            "id": 2,
+            "name": "Pants",
+            "image": "/images/6.png",
+            "price": 5,
+            "quantity": 30,
+            "discountPercentage": 49.9,
+            "status": false
+          },
+          {
+            "id": 3,
+            "name": "Cap",
+            "image": "/images/7.png",
+            "price": 10,
+            "quantity": 5,
+            "discountPercentage": 29.9,
+            "status": true
+          },
+          {
+            "id": 4,
+            "name": "Jacket",
+            "image": "/images/8.png",
+            "price": 20,
+            "quantity": 15,
+            "discountPercentage": 14.5,
+            "status": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Accessories",
+    "subCategory": [
+      {
+        "id": 1,
+        "name": "Bags",
+        "image": "/images/2.png",
+        "products": [
+          {
+            "id": 1,
+            "name": "Hoodie",
+            "image": "/images/9.png",
+            "price": 15,
+            "quantity": 25,
+            "discountPercentage": 59.9,
+            "status": true
+          },
+          {
+            "id": 2,
+            "name": "Pants",
+            "image": "/images/6.png",
+            "price": 5,
+            "quantity": 30,
+            "discountPercentage": 49.9,
+            "status": false
+          },
+          {
+            "id": 3,
+            "name": "Cap",
+            "image": "/images/7.png",
+            "price": 10,
+            "quantity": 5,
+            "discountPercentage": 29.9,
+            "status": true
+          },
+          {
+            "id": 4,
+            "name": "Jacket",
+            "image": "/images/8.png",
+            "price": 20,
+            "quantity": 15,
+            "discountPercentage": 14.5,
+            "status": true
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Shoes",
+        "image": "/images/3.png",
+        "products": [
+          {
+            "id": 1,
+            "name": "Hoodie",
+            "image": "/images/9.png",
+            "price": 15,
+            "quantity": 25,
+            "discountPercentage": 59.9,
+            "status": true
+          },
+          {
+            "id": 2,
+            "name": "Pants",
+            "image": "/images/6.png",
+            "price": 5,
+            "quantity": 30,
+            "discountPercentage": 49.9,
+            "status": false
+          },
+          {
+            "id": 3,
+            "name": "Cap",
+            "image": "/images/7.png",
+            "price": 10,
+            "quantity": 5,
+            "discountPercentage": 29.9,
+            "status": true
+          },
+          {
+            "id": 4,
+            "name": "Jacket",
+            "image": "/images/8.png",
+            "price": 20,
+            "quantity": 15,
+            "discountPercentage": 14.5,
+            "status": true
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Watch",
+        "image": "/images/4.png",
+        "products": [
+          {
+            "id": 1,
+            "name": "Hoodie",
+            "image": "/images/9.png",
+            "price": 15,
+            "quantity": 25,
+            "discountPercentage": 59.9,
+            "status": true
+          },
+          {
+            "id": 2,
+            "name": "Pants",
+            "image": "/images/6.png",
+            "price": 5,
+            "quantity": 30,
+            "discountPercentage": 49.9,
+            "status": false
+          },
+          {
+            "id": 3,
+            "name": "Cap",
+            "image": "/images/7.png",
+            "price": 10,
+            "quantity": 5,
+            "discountPercentage": 29.9,
+            "status": true
+          },
+          {
+            "id": 4,
+            "name": "Jacket",
+            "image": "/images/8.png",
+            "price": 20,
+            "quantity": 15,
+            "discountPercentage": 14.5,
+            "status": true
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "name": "Pochette",
+        "image": "/images/5.png",
+        "products": [
+          {
+            "id": 1,
+            "name": "Hoodie",
+            "image": "/images/9.png",
+            "price": 15,
+            "quantity": 25,
+            "discountPercentage": 59.9,
+            "status": true
+          },
+          {
+            "id": 2,
+            "name": "Pants",
+            "image": "/images/6.png",
+            "price": 5,
+            "quantity": 30,
+            "discountPercentage": 49.9,
+            "status": false
+          },
+          {
+            "id": 3,
+            "name": "Cap",
+            "image": "/images/7.png",
+            "price": 10,
+            "quantity": 5,
+            "discountPercentage": 29.9,
+            "status": true
+          },
+          {
+            "id": 4,
+            "name": "Jacket",
+            "image": "/images/8.png",
+            "price": 20,
+            "quantity": 15,
+            "discountPercentage": 14.5,
+            "status": true
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "name": "Hat",
+        "image": "/images/1.png",
+        "products": [
+          {
+            "id": 1,
+            "name": "Hoodie",
+            "image": "/images/9.png",
+            "price": 15,
+            "quantity": 25,
+            "discountPercentage": 59.9,
+            "status": true
+          },
+          {
+            "id": 2,
+            "name": "Pants",
+            "image": "/images/6.png",
+            "price": 5,
+            "quantity": 30,
+            "discountPercentage": 49.9,
+            "status": false
+          },
+          {
+            "id": 3,
+            "name": "Cap",
+            "image": "/images/7.png",
+            "price": 10,
+            "quantity": 5,
+            "discountPercentage": 29.9,
+            "status": true
+          },
+          {
+            "id": 4,
+            "name": "Jacket",
+            "image": "/images/8.png",
+            "price": 20,
+            "quantity": 15,
+            "discountPercentage": 14.5,
+            "status": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Hats",
+    "subCategory": [
+      {
+        "id": 1,
+        "name": "Bags",
+        "image": "/images/2.png",
+        "products": [
+          {
+            "id": 1,
+            "name": "Hoodie",
+            "image": "/images/9.png",
+            "price": 15,
+            "quantity": 25,
+            "discountPercentage": 59.9,
+            "status": true
+          },
+          {
+            "id": 2,
+            "name": "Pants",
+            "image": "/images/6.png",
+            "price": 5,
+            "quantity": 30,
+            "discountPercentage": 49.9,
+            "status": false
+          },
+          {
+            "id": 3,
+            "name": "Cap",
+            "image": "/images/7.png",
+            "price": 10,
+            "quantity": 5,
+            "discountPercentage": 29.9,
+            "status": true
+          },
+          {
+            "id": 4,
+            "name": "Jacket",
+            "image": "/images/8.png",
+            "price": 20,
+            "quantity": 15,
+            "discountPercentage": 14.5,
+            "status": true
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Shoes",
+        "image": "/images/3.png",
+        "products": [
+          {
+            "id": 1,
+            "name": "Hoodie",
+            "image": "/images/9.png",
+            "price": 15,
+            "quantity": 25,
+            "discountPercentage": 59.9,
+            "status": true
+          },
+          {
+            "id": 2,
+            "name": "Pants",
+            "image": "/images/6.png",
+            "price": 5,
+            "quantity": 30,
+            "discountPercentage": 49.9,
+            "status": false
+          },
+          {
+            "id": 3,
+            "name": "Cap",
+            "image": "/images/7.png",
+            "price": 10,
+            "quantity": 5,
+            "discountPercentage": 29.9,
+            "status": true
+          },
+          {
+            "id": 4,
+            "name": "Jacket",
+            "image": "/images/8.png",
+            "price": 20,
+            "quantity": 15,
+            "discountPercentage": 14.5,
+            "status": true
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Watch",
+        "image": "/images/4.png",
+        "products": [
+          {
+            "id": 1,
+            "name": "Hoodie",
+            "image": "/images/9.png",
+            "price": 15,
+            "quantity": 25,
+            "discountPercentage": 59.9,
+            "status": true
+          },
+          {
+            "id": 2,
+            "name": "Pants",
+            "image": "/images/6.png",
+            "price": 5,
+            "quantity": 30,
+            "discountPercentage": 49.9,
+            "status": false
+          },
+          {
+            "id": 3,
+            "name": "Cap",
+            "image": "/images/7.png",
+            "price": 10,
+            "quantity": 5,
+            "discountPercentage": 29.9,
+            "status": true
+          },
+          {
+            "id": 4,
+            "name": "Jacket",
+            "image": "/images/8.png",
+            "price": 20,
+            "quantity": 15,
+            "discountPercentage": 14.5,
+            "status": true
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "name": "Pochette",
+        "image": "/images/5.png",
+        "products": [
+          {
+            "id": 1,
+            "name": "Hoodie",
+            "image": "/images/9.png",
+            "price": 15,
+            "quantity": 25,
+            "discountPercentage": 59.9,
+            "status": true
+          },
+          {
+            "id": 2,
+            "name": "Pants",
+            "image": "/images/6.png",
+            "price": 5,
+            "quantity": 30,
+            "discountPercentage": 49.9,
+            "status": false
+          },
+          {
+            "id": 3,
+            "name": "Cap",
+            "image": "/images/7.png",
+            "price": 10,
+            "quantity": 5,
+            "discountPercentage": 29.9,
+            "status": true
+          },
+          {
+            "id": 4,
+            "name": "Jacket",
+            "image": "/images/8.png",
+            "price": 20,
+            "quantity": 15,
+            "discountPercentage": 14.5,
+            "status": true
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "name": "Hat",
+        "image": "/images/1.png",
+        "products": [
+          {
+            "id": 1,
+            "name": "Hoodie",
+            "image": "/images/9.png",
+            "price": 15,
+            "quantity": 25,
+            "discountPercentage": 59.9,
+            "status": true
+          },
+          {
+            "id": 2,
+            "name": "Pants",
+            "image": "/images/6.png",
+            "price": 5,
+            "quantity": 30,
+            "discountPercentage": 49.9,
+            "status": false
+          },
+          {
+            "id": 3,
+            "name": "Cap",
+            "image": "/images/7.png",
+            "price": 10,
+            "quantity": 5,
+            "discountPercentage": 29.9,
+            "status": true
+          },
+          {
+            "id": 4,
+            "name": "Jacket",
+            "image": "/images/8.png",
+            "price": 20,
+            "quantity": 15,
+            "discountPercentage": 14.5,
+            "status": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Furniture",
+    "subCategory": [
+      {
+        "id": 1,
+        "name": "Bags",
+        "image": "/images/2.png",
+        "products": [
+          {
+            "id": 1,
+            "name": "Hoodie",
+            "image": "/images/9.png",
+            "price": 15,
+            "quantity": 25,
+            "discountPercentage": 59.9,
+            "status": true
+          },
+          {
+            "id": 2,
+            "name": "Pants",
+            "image": "/images/6.png",
+            "price": 5,
+            "quantity": 30,
+            "discountPercentage": 49.9,
+            "status": false
+          },
+          {
+            "id": 3,
+            "name": "Cap",
+            "image": "/images/7.png",
+            "price": 10,
+            "quantity": 5,
+            "discountPercentage": 29.9,
+            "status": true
+          },
+          {
+            "id": 4,
+            "name": "Jacket",
+            "image": "/images/8.png",
+            "price": 20,
+            "quantity": 15,
+            "discountPercentage": 14.5,
+            "status": true
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Shoes",
+        "image": "/images/3.png",
+        "products": [
+          {
+            "id": 1,
+            "name": "Hoodie",
+            "image": "/images/9.png",
+            "price": 15,
+            "quantity": 25,
+            "discountPercentage": 59.9,
+            "status": true
+          },
+          {
+            "id": 2,
+            "name": "Pants",
+            "image": "/images/6.png",
+            "price": 5,
+            "quantity": 30,
+            "discountPercentage": 49.9,
+            "status": false
+          },
+          {
+            "id": 3,
+            "name": "Cap",
+            "image": "/images/7.png",
+            "price": 10,
+            "quantity": 5,
+            "discountPercentage": 29.9,
+            "status": true
+          },
+          {
+            "id": 4,
+            "name": "Jacket",
+            "image": "/images/8.png",
+            "price": 20,
+            "quantity": 15,
+            "discountPercentage": 14.5,
+            "status": true
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Watch",
+        "image": "/images/4.png",
+        "products": [
+          {
+            "id": 1,
+            "name": "Hoodie",
+            "image": "/images/9.png",
+            "price": 15,
+            "quantity": 25,
+            "discountPercentage": 59.9,
+            "status": true
+          },
+          {
+            "id": 2,
+            "name": "Pants",
+            "image": "/images/6.png",
+            "price": 5,
+            "quantity": 30,
+            "discountPercentage": 49.9,
+            "status": false
+          },
+          {
+            "id": 3,
+            "name": "Cap",
+            "image": "/images/7.png",
+            "price": 10,
+            "quantity": 5,
+            "discountPercentage": 29.9,
+            "status": true
+          },
+          {
+            "id": 4,
+            "name": "Jacket",
+            "image": "/images/8.png",
+            "price": 20,
+            "quantity": 15,
+            "discountPercentage": 14.5,
+            "status": true
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "name": "Pochette",
+        "image": "/images/5.png",
+        "products": [
+          {
+            "id": 1,
+            "name": "Hoodie",
+            "image": "/images/9.png",
+            "price": 15,
+            "quantity": 25,
+            "discountPercentage": 59.9,
+            "status": true
+          },
+          {
+            "id": 2,
+            "name": "Pants",
+            "image": "/images/6.png",
+            "price": 5,
+            "quantity": 30,
+            "discountPercentage": 49.9,
+            "status": false
+          },
+          {
+            "id": 3,
+            "name": "Cap",
+            "image": "/images/7.png",
+            "price": 10,
+            "quantity": 5,
+            "discountPercentage": 29.9,
+            "status": true
+          },
+          {
+            "id": 4,
+            "name": "Jacket",
+            "image": "/images/8.png",
+            "price": 20,
+            "quantity": 15,
+            "discountPercentage": 14.5,
+            "status": true
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "name": "Hat",
+        "image": "/images/1.png",
+        "products": [
+          {
+            "id": 1,
+            "name": "Hoodie",
+            "image": "/images/9.png",
+            "price": 15,
+            "quantity": 25,
+            "discountPercentage": 59.9,
+            "status": true
+          },
+          {
+            "id": 2,
+            "name": "Pants",
+            "image": "/images/6.png",
+            "price": 5,
+            "quantity": 30,
+            "discountPercentage": 49.9,
+            "status": false
+          },
+          {
+            "id": 3,
+            "name": "Cap",
+            "image": "/images/7.png",
+            "price": 10,
+            "quantity": 5,
+            "discountPercentage": 29.9,
+            "status": true
+          },
+          {
+            "id": 4,
+            "name": "Jacket",
+            "image": "/images/8.png",
+            "price": 20,
+            "quantity": 15,
+            "discountPercentage": 14.5,
+            "status": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Beauty Items",
+    "subCategory": [
+      {
+        "id": 1,
+        "name": "Bags",
+        "image": "/images/2.png",
+        "products": [
+          {
+            "id": 1,
+            "name": "Hoodie",
+            "image": "/images/9.png",
+            "price": 15,
+            "quantity": 25,
+            "discountPercentage": 59.9,
+            "status": true
+          },
+          {
+            "id": 2,
+            "name": "Pants",
+            "image": "/images/6.png",
+            "price": 5,
+            "quantity": 30,
+            "discountPercentage": 49.9,
+            "status": false
+          },
+          {
+            "id": 3,
+            "name": "Cap",
+            "image": "/images/7.png",
+            "price": 10,
+            "quantity": 5,
+            "discountPercentage": 29.9,
+            "status": true
+          },
+          {
+            "id": 4,
+            "name": "Jacket",
+            "image": "/images/8.png",
+            "price": 20,
+            "quantity": 15,
+            "discountPercentage": 14.5,
+            "status": true
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Shoes",
+        "image": "/images/3.png",
+        "products": [
+          {
+            "id": 1,
+            "name": "Hoodie",
+            "image": "/images/9.png",
+            "price": 15,
+            "quantity": 25,
+            "discountPercentage": 59.9,
+            "status": true
+          },
+          {
+            "id": 2,
+            "name": "Pants",
+            "image": "/images/6.png",
+            "price": 5,
+            "quantity": 30,
+            "discountPercentage": 49.9,
+            "status": false
+          },
+          {
+            "id": 3,
+            "name": "Cap",
+            "image": "/images/7.png",
+            "price": 10,
+            "quantity": 5,
+            "discountPercentage": 29.9,
+            "status": true
+          },
+          {
+            "id": 4,
+            "name": "Jacket",
+            "image": "/images/8.png",
+            "price": 20,
+            "quantity": 15,
+            "discountPercentage": 14.5,
+            "status": true
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Watch",
+        "image": "/images/4.png",
+        "products": [
+          {
+            "id": 1,
+            "name": "Hoodie",
+            "image": "/images/9.png",
+            "price": 15,
+            "quantity": 25,
+            "discountPercentage": 59.9,
+            "status": true
+          },
+          {
+            "id": 2,
+            "name": "Pants",
+            "image": "/images/6.png",
+            "price": 5,
+            "quantity": 30,
+            "discountPercentage": 49.9,
+            "status": false
+          },
+          {
+            "id": 3,
+            "name": "Cap",
+            "image": "/images/7.png",
+            "price": 10,
+            "quantity": 5,
+            "discountPercentage": 29.9,
+            "status": true
+          },
+          {
+            "id": 4,
+            "name": "Jacket",
+            "image": "/images/8.png",
+            "price": 20,
+            "quantity": 15,
+            "discountPercentage": 14.5,
+            "status": true
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "name": "Pochette",
+        "image": "/images/5.png",
+        "products": [
+          {
+            "id": 1,
+            "name": "Hoodie",
+            "image": "/images/9.png",
+            "price": 15,
+            "quantity": 25,
+            "discountPercentage": 59.9,
+            "status": true
+          },
+          {
+            "id": 2,
+            "name": "Pants",
+            "image": "/images/6.png",
+            "price": 5,
+            "quantity": 30,
+            "discountPercentage": 49.9,
+            "status": false
+          },
+          {
+            "id": 3,
+            "name": "Cap",
+            "image": "/images/7.png",
+            "price": 10,
+            "quantity": 5,
+            "discountPercentage": 29.9,
+            "status": true
+          },
+          {
+            "id": 4,
+            "name": "Jacket",
+            "image": "/images/8.png",
+            "price": 20,
+            "quantity": 15,
+            "discountPercentage": 14.5,
+            "status": true
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "name": "Hat",
+        "image": "/images/1.png",
+        "products": [
+          {
+            "id": 1,
+            "name": "Hoodie",
+            "image": "/images/9.png",
+            "price": 15,
+            "quantity": 25,
+            "discountPercentage": 59.9,
+            "status": true
+          },
+          {
+            "id": 2,
+            "name": "Pants",
+            "image": "/images/6.png",
+            "price": 5,
+            "quantity": 30,
+            "discountPercentage": 49.9,
+            "status": false
+          },
+          {
+            "id": 3,
+            "name": "Cap",
+            "image": "/images/7.png",
+            "price": 10,
+            "quantity": 5,
+            "discountPercentage": 29.9,
+            "status": true
+          },
+          {
+            "id": 4,
+            "name": "Jacket",
+            "image": "/images/8.png",
+            "price": 20,
+            "quantity": 15,
+            "discountPercentage": 14.5,
+            "status": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Backpacks",
+    "subCategory": [
+      {
+        "id": 1,
+        "name": "Bags",
+        "image": "/images/2.png",
+        "products": [
+          {
+            "id": 1,
+            "name": "Hoodie",
+            "image": "/images/9.png",
+            "price": 15,
+            "quantity": 25,
+            "discountPercentage": 59.9,
+            "status": true
+          },
+          {
+            "id": 2,
+            "name": "Pants",
+            "image": "/images/6.png",
+            "price": 5,
+            "quantity": 30,
+            "discountPercentage": 49.9,
+            "status": false
+          },
+          {
+            "id": 3,
+            "name": "Cap",
+            "image": "/images/7.png",
+            "price": 10,
+            "quantity": 5,
+            "discountPercentage": 29.9,
+            "status": true
+          },
+          {
+            "id": 4,
+            "name": "Jacket",
+            "image": "/images/8.png",
+            "price": 20,
+            "quantity": 15,
+            "discountPercentage": 14.5,
+            "status": true
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Shoes",
+        "image": "/images/3.png",
+        "products": [
+          {
+            "id": 1,
+            "name": "Hoodie",
+            "image": "/images/9.png",
+            "price": 15,
+            "quantity": 25,
+            "discountPercentage": 59.9,
+            "status": true
+          },
+          {
+            "id": 2,
+            "name": "Pants",
+            "image": "/images/6.png",
+            "price": 5,
+            "quantity": 30,
+            "discountPercentage": 49.9,
+            "status": false
+          },
+          {
+            "id": 3,
+            "name": "Cap",
+            "image": "/images/7.png",
+            "price": 10,
+            "quantity": 5,
+            "discountPercentage": 29.9,
+            "status": true
+          },
+          {
+            "id": 4,
+            "name": "Jacket",
+            "image": "/images/8.png",
+            "price": 20,
+            "quantity": 15,
+            "discountPercentage": 14.5,
+            "status": true
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Watch",
+        "image": "/images/4.png",
+        "products": [
+          {
+            "id": 1,
+            "name": "Hoodie",
+            "image": "/images/9.png",
+            "price": 15,
+            "quantity": 25,
+            "discountPercentage": 59.9,
+            "status": true
+          },
+          {
+            "id": 2,
+            "name": "Pants",
+            "image": "/images/6.png",
+            "price": 5,
+            "quantity": 30,
+            "discountPercentage": 49.9,
+            "status": false
+          },
+          {
+            "id": 3,
+            "name": "Cap",
+            "image": "/images/7.png",
+            "price": 10,
+            "quantity": 5,
+            "discountPercentage": 29.9,
+            "status": true
+          },
+          {
+            "id": 4,
+            "name": "Jacket",
+            "image": "/images/8.png",
+            "price": 20,
+            "quantity": 15,
+            "discountPercentage": 14.5,
+            "status": true
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "name": "Pochette",
+        "image": "/images/5.png",
+        "products": [
+          {
+            "id": 1,
+            "name": "Hoodie",
+            "image": "/images/9.png",
+            "price": 15,
+            "quantity": 25,
+            "discountPercentage": 59.9,
+            "status": true
+          },
+          {
+            "id": 2,
+            "name": "Pants",
+            "image": "/images/6.png",
+            "price": 5,
+            "quantity": 30,
+            "discountPercentage": 49.9,
+            "status": false
+          },
+          {
+            "id": 3,
+            "name": "Cap",
+            "image": "/images/7.png",
+            "price": 10,
+            "quantity": 5,
+            "discountPercentage": 29.9,
+            "status": true
+          },
+          {
+            "id": 4,
+            "name": "Jacket",
+            "image": "/images/8.png",
+            "price": 20,
+            "quantity": 15,
+            "discountPercentage": 14.5,
+            "status": true
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "name": "Hat",
+        "image": "/images/1.png",
+        "products": [
+          {
+            "id": 1,
+            "name": "Hoodie",
+            "image": "/images/9.png",
+            "price": 15,
+            "quantity": 25,
+            "discountPercentage": 59.9,
+            "status": true
+          },
+          {
+            "id": 2,
+            "name": "Pants",
+            "image": "/images/6.png",
+            "price": 5,
+            "quantity": 30,
+            "discountPercentage": 49.9,
+            "status": false
+          },
+          {
+            "id": 3,
+            "name": "Cap",
+            "image": "/images/7.png",
+            "price": 10,
+            "quantity": 5,
+            "discountPercentage": 29.9,
+            "status": true
+          },
+          {
+            "id": 4,
+            "name": "Jacket",
+            "image": "/images/8.png",
+            "price": 20,
+            "quantity": 15,
+            "discountPercentage": 14.5,
+            "status": true
+          }
+        ]
+      }
+    ]
+  }
+]
