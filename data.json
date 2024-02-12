@@ -53,7 +53,7 @@
         "products": [
           {
             "id": 1,
-            "name": "Hoodie",
+            "name": "Hoodie-1",
             "image": "https://github.com/Mudassar1999/TPFlutterTest/blob/main/images/9.png?raw=true",
             "price": 15,
             "quantity": 25,
@@ -62,7 +62,7 @@
           },
           {
             "id": 2,
-            "name": "Pants",
+            "name": "Pants-1",
             "image": "https://github.com/Mudassar1999/TPFlutterTest/blob/main/images/6.png?raw=true",
             "price": 5,
             "quantity": 30,
@@ -71,7 +71,7 @@
           },
           {
             "id": 3,
-            "name": "Cap",
+            "name": "Cap-1",
             "image": "https://github.com/Mudassar1999/TPFlutterTest/blob/main/images/7.png?raw=true",
             "price": 10,
             "quantity": 5,
@@ -80,7 +80,7 @@
           },
           {
             "id": 4,
-            "name": "Jacket",
+            "name": "Jacket-1",
             "image": "https://github.com/Mudassar1999/TPFlutterTest/blob/main/images/8.png?raw=true",
             "price": 20,
             "quantity": 15,
@@ -96,36 +96,36 @@
         "products": [
           {
             "id": 1,
-            "name": "Hoodie",
+            "name": "Hoodie-1",
             "image": "https://github.com/Mudassar1999/TPFlutterTest/blob/main/images/9.png?raw=true",
-            "price": 15,
+            "price": 30,
             "quantity": 25,
             "discountPercentage": 59.9,
             "status": true
           },
           {
             "id": 2,
-            "name": "Pants",
+            "name": "Pants-1",
             "image": "https://github.com/Mudassar1999/TPFlutterTest/blob/main/images/6.png?raw=true",
-            "price": 5,
+            "price": 10,
             "quantity": 30,
             "discountPercentage": 49.9,
             "status": false
           },
           {
             "id": 3,
-            "name": "Cap",
+            "name": "Cap-1",
             "image": "https://github.com/Mudassar1999/TPFlutterTest/blob/main/images/7.png?raw=true",
-            "price": 10,
+            "price": 15,
             "quantity": 5,
             "discountPercentage": 29.9,
             "status": true
           },
           {
             "id": 4,
-            "name": "Jacket",
+            "name": "Jacket-1",
             "image": "https://github.com/Mudassar1999/TPFlutterTest/blob/main/images/8.png?raw=true",
-            "price": 20,
+            "price": 30,
             "quantity": 15,
             "discountPercentage": 14.5,
             "status": true
@@ -226,24 +226,24 @@
     "subCategory": [
       {
         "id": 1,
-        "name": "Bags",
+        "name": "Bags-2",
         "image": "https://github.com/Mudassar1999/TPFlutterTest/blob/main/images/2.png?raw=true",
         "products": [
           {
             "id": 1,
-            "name": "Hoodie",
+            "name": "Hoodie-2",
             "image": "https://github.com/Mudassar1999/TPFlutterTest/blob/main/images/9.png?raw=true",
-            "price": 15,
-            "quantity": 25,
+            "price": 10,
+            "quantity": 100,
             "discountPercentage": 59.9,
             "status": true
           },
           {
             "id": 2,
-            "name": "Pants",
+            "name": "Pants-2",
             "image": "https://github.com/Mudassar1999/TPFlutterTest/blob/main/images/6.png?raw=true",
-            "price": 5,
-            "quantity": 30,
+            "price": 50,
+            "quantity": 300,
             "discountPercentage": 49.9,
             "status": false
           },
@@ -269,21 +269,21 @@
       },
       {
         "id": 2,
-        "name": "Shoes",
+        "name": "Shoes-2",
         "image": "https://github.com/Mudassar1999/TPFlutterTest/blob/main/images/3.png?raw=true",
         "products": [
           {
             "id": 1,
-            "name": "Hoodie",
+            "name": "Hoodie-3",
             "image": "https://github.com/Mudassar1999/TPFlutterTest/blob/main/images/9.png?raw=true",
-            "price": 15,
+            "price": 10,
             "quantity": 25,
             "discountPercentage": 59.9,
             "status": true
           },
           {
             "id": 2,
-            "name": "Pants",
+            "name": "Pants-4",
             "image": "https://github.com/Mudassar1999/TPFlutterTest/blob/main/images/6.png?raw=true",
             "price": 5,
             "quantity": 30,
@@ -292,7 +292,7 @@
           },
           {
             "id": 3,
-            "name": "Cap",
+            "name": "Cap3",
             "image": "https://github.com/Mudassar1999/TPFlutterTest/blob/main/images/7.png?raw=true",
             "price": 10,
             "quantity": 5,
@@ -889,7 +889,7 @@
     "subCategory": [
       {
         "id": 1,
-        "name": "Bags",
+        "name": "Bags-3",
         "image": "https://github.com/Mudassar1999/TPFlutterTest/blob/main/images/2.png?raw=true",
         "products": [
           {
@@ -1110,7 +1110,7 @@
     "subCategory": [
       {
         "id": 1,
-        "name": "Bags",
+        "name": "Bags-4",
         "image": "https://github.com/Mudassar1999/TPFlutterTest/blob/main/images/2.png?raw=true",
         "products": [
           {
@@ -1153,7 +1153,7 @@
       },
       {
         "id": 2,
-        "name": "Shoes",
+        "name": "Shoes-5",
         "image": "https://github.com/Mudassar1999/TPFlutterTest/blob/main/images/3.png?raw=true",
         "products": [
           {
